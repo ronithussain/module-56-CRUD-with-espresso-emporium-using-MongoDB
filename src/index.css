@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+a.active {
+    color: #ff5722; /* Active link color */
+    font-weight: bold; /* Make it bold */
+    text-decoration: underline; /* Underline the active link */
+}
